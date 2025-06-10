@@ -29,9 +29,9 @@ In the terminal three use these commands to test
 nc localhost 8080
 ```
 If you run this command multiple times you will see responses like this
-hello from 5000
-hello from 5001
-hello from 5002
+hello from 5000  
+hello from 5001  
+hello from 5002  
 Each request goes to a different backend — thanks to the Round Robin algorithm.
 
 
