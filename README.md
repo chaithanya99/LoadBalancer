@@ -28,7 +28,7 @@ In the terminal three use these commands to test
 ```bash
 nc localhost 8080
 ```
-If you run this command multiple times you will see responses like this
+If you run this command multiple times you will see responses like this  
 hello from 5000  
 hello from 5001  
 hello from 5002  
